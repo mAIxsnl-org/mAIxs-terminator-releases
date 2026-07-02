@@ -1,0 +1,12 @@
+{
+  "version": "0.1.6",
+  "notes": "Auto-update (in-app installeren + herstart), brein-selectie, brein-badge per project.",
+  "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
+  "platforms": {
+    "darwin-arm64": {
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.6/mAIxs-Terminator-0.1.6-arm64-mac.zip",
+      "sha256": "07952c7654738d0d404161b26fbb048bc0bfe9a66551f6a03017f185e05ffb53",
+      "kind": "zip"
+    }
+  }
+}
