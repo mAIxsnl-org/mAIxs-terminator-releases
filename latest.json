@@ -1,11 +1,11 @@
 {
-  "version": "0.1.7",
-  "notes": "Opstart-vastloper verholpen: sessies resumen weer meteen. Nieuw-terminal-menu vernieuwd en de brein-koppelvraag bij 'Open bestaande map' hersteld.",
+  "version": "0.1.8",
+  "notes": "Chat-antwoorden zijn nu te selecteren en kopiëren (⌘C).",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.7/mAIxs-Terminator-0.1.7-arm64-mac.zip",
-      "sha256": "5eb81c7b0d1ccccd294d1560072ae4ce180efc65b2c167740f7c711cf4f05269",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.8/mAIxs-Terminator-0.1.8-arm64-mac.zip",
+      "sha256": "d5566fc84251e6884034527aa629843bbdae06c3f1cc30daa13b04009c1ff0b8",
       "kind": "zip"
     }
   }
