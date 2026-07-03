@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8",
-  "notes": "Chat-antwoorden zijn nu te selecteren en kopiëren (⌘C).",
+  "version": "0.1.9",
+  "notes": "",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.8/mAIxs-Terminator-0.1.8-arm64-mac.zip",
-      "sha256": "d5566fc84251e6884034527aa629843bbdae06c3f1cc30daa13b04009c1ff0b8",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.9/mAIxs-Terminator-0.1.9-arm64-mac.zip",
+      "sha256": "17a89ceb8c64738c9f71e18b4bf81e9928651b90883b61ad834295d2aefa4391",
       "kind": "zip"
     }
   }
