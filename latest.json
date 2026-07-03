@@ -1,11 +1,11 @@
 {
-  "version": "0.1.9",
+  "version": "0.1.10",
   "notes": "",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.9/mAIxs-Terminator-0.1.9-arm64-mac.zip",
-      "sha256": "17a89ceb8c64738c9f71e18b4bf81e9928651b90883b61ad834295d2aefa4391",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.10/mAIxs-Terminator-0.1.10-arm64-mac.zip",
+      "sha256": "135e5172ff8eb5ce781ccc2812fd37cce3b2d73aa624071639750b0f244511c3",
       "kind": "zip"
     }
   }
