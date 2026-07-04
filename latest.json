@@ -1,12 +1,17 @@
 {
-  "version": "0.1.12",
-  "notes": "Background Agents: scheduled NVIDIA model tasks from the Arnold Agents menu.",
+  "version": "0.1.13",
+  "notes": "Automated release 0.1.13 from mAIxs-terminator commit b7d14b3e6fdc298223e067aa41cb4fa2f48f626a",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.12/mAIxs-Terminator-0.1.12-arm64-mac.zip",
-      "sha256": "d73a8c4bf7a6c52c8e59d1430f47a8f095227b5525780163d461be42febf356a",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.13/mAIxs-Terminator-0.1.13-arm64-mac.zip",
+      "sha256": "d382544aa0a9e4c853ff297f53beb43fe7ede29be2684045611a28ccf4728134",
       "kind": "zip"
+    },
+    "win32-x64": {
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.13/mAIxs-Terminator-0.1.13-win32-x64-setup.exe",
+      "sha256": "86ff236e1281e04755552bef9ab4568e813294fbc736dc6aa577784967938556",
+      "kind": "nsis"
     }
   }
 }
