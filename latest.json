@@ -1,11 +1,11 @@
 {
-  "version": "0.1.10",
-  "notes": "",
+  "version": "0.1.11",
+  "notes": "Brein-versie-status: zie in Instellingen → Brein-bron of je mAIxs-brein (en de core) up-to-date is, met commit-hash en toestand (up-to-date / N commits achter / offline / afgeweken clone / lokaal brein). Nieuwe 'Nu bijwerken'-knop haalt de laatste versie op. Daarnaast zijn de twee instellingen-menu's gebundeld tot één paneel: de Arnold-instellingen (ElevenLabs, voice, voice-commando's) zitten nu in het ⚙-paneel en verschijnen alleen in Arnold-modus.",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.10/mAIxs-Terminator-0.1.10-arm64-mac.zip",
-      "sha256": "135e5172ff8eb5ce781ccc2812fd37cce3b2d73aa624071639750b0f244511c3",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.11/mAIxs-Terminator-0.1.11-arm64-mac.zip",
+      "sha256": "9e570dc71ddf52dd71a4a8c2a69560d9ab0f4827e607c0519fec998ce4dc7372",
       "kind": "zip"
     }
   }
