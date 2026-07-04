@@ -1,16 +1,16 @@
 {
-  "version": "0.1.13",
-  "notes": "Automated release 0.1.13 from mAIxs-terminator commit b7d14b3e6fdc298223e067aa41cb4fa2f48f626a",
+  "version": "0.1.14",
+  "notes": "Automated release 0.1.14 from mAIxs-terminator commit b2940ba54c3ad6a706b513c28e73e67e44accd58",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.13/mAIxs-Terminator-0.1.13-arm64-mac.zip",
-      "sha256": "d382544aa0a9e4c853ff297f53beb43fe7ede29be2684045611a28ccf4728134",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.14/mAIxs-Terminator-0.1.14-arm64-mac.zip",
+      "sha256": "855c02db1e98a7688cda4ee147296de26c4b5aeeb4d5455356161177f800c2ed",
       "kind": "zip"
     },
     "win32-x64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.13/mAIxs-Terminator-0.1.13-win32-x64-setup.exe",
-      "sha256": "86ff236e1281e04755552bef9ab4568e813294fbc736dc6aa577784967938556",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.14/mAIxs-Terminator-0.1.14-win32-x64-setup.exe",
+      "sha256": "87e6713386ccdd5d4840a49b7bf0e0644a9b61814219fae9cbd1a2edef7012bd",
       "kind": "nsis"
     }
   }
