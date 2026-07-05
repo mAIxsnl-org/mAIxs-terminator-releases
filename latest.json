@@ -1,11 +1,11 @@
 {
-  "version": "0.1.15",
-  "notes": "mAIxs Terminator 0.1.15\n\n- Agent-popup (\"Agent toevoegen\") opgeschoond: leesbare knoppen zonder overlap.\n- Projectmap is nu een dropdown uit je PROJECTEN-lijst, met \"+ Andere map kiezen...\".\n- Vercel-koppeling per project: koppel in het PROJECTEN-paneel een Vercel-project (naam + URL); de agent-popup toont het gekoppelde project.\n- ISSUES-paneel vindt nu de GitHub CLI (gh) correct in de gebundelde app (PATH-fix).",
+  "version": "0.1.16",
+  "notes": "mAIxs Terminator 0.1.16\n\n- Nieuw PR-paneel in het linkermenu (\"PR'S\", sneltoets Alt+R): toont open pull requests van de actieve projecttab.\n- Blocked-detectie per PR: merge-conflict, falende CI-checks of changes-requested, met duidelijke badges.\n- \"Fix\" op een geblokkeerde PR stuurt een instructie naar de actieve terminal om de branch te checkouten, te diagnoseren, te fixen, te testen en te pushen.\n- \"Review\" stuurt /review <n>; \"Open\" opent de PR in de browser.",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.15/mAIxs-Terminator-0.1.15-arm64-mac.zip",
-      "sha256": "3a689536fbd62b132e6e82d3db303a2b50084e967fbc198ca659a4375de375fd",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.16/mAIxs-Terminator-0.1.16-arm64-mac.zip",
+      "sha256": "2e5f6a296a345c8468d04dec52c654651c164534e9dc742799b317b42c95f510",
       "kind": "zip"
     }
   }
