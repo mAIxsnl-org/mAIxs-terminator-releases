@@ -1,17 +1,12 @@
 {
-  "version": "0.1.14",
-  "notes": "Automated release 0.1.14 from mAIxs-terminator commit b2940ba54c3ad6a706b513c28e73e67e44accd58",
+  "version": "0.1.15",
+  "notes": "mAIxs Terminator 0.1.15\n\n- Agent-popup (\"Agent toevoegen\") opgeschoond: leesbare knoppen zonder overlap.\n- Projectmap is nu een dropdown uit je PROJECTEN-lijst, met \"+ Andere map kiezen...\".\n- Vercel-koppeling per project: koppel in het PROJECTEN-paneel een Vercel-project (naam + URL); de agent-popup toont het gekoppelde project.\n- ISSUES-paneel vindt nu de GitHub CLI (gh) correct in de gebundelde app (PATH-fix).",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.14/mAIxs-Terminator-0.1.14-arm64-mac.zip",
-      "sha256": "855c02db1e98a7688cda4ee147296de26c4b5aeeb4d5455356161177f800c2ed",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.15/mAIxs-Terminator-0.1.15-arm64-mac.zip",
+      "sha256": "3a689536fbd62b132e6e82d3db303a2b50084e967fbc198ca659a4375de375fd",
       "kind": "zip"
-    },
-    "win32-x64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.14/mAIxs-Terminator-0.1.14-win32-x64-setup.exe",
-      "sha256": "87e6713386ccdd5d4840a49b7bf0e0644a9b61814219fae9cbd1a2edef7012bd",
-      "kind": "nsis"
     }
   }
 }
