@@ -1,11 +1,11 @@
 {
-  "version": "0.1.18",
-  "notes": "",
+  "version": "0.1.19",
+  "notes": "Automation-agents tonen nu hun poll-status in het agents-panel: gekleurde statusbol (bewaken/actie/fout), 'laatst gepolld · detail' en geschatte volgende poll. Voorheen stond zo'n agent eeuwig op 'nog niet gedraaid' zonder enig signaal, ook bij fouten (geen repo/terminal, dispatch mislukt).",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.18/mAIxs-Terminator-0.1.18-arm64-mac.zip",
-      "sha256": "000d476e43700478051d860102621ece904e3d36976e517cbccd0818dcc0874a",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.19/mAIxs-Terminator-0.1.19-arm64-mac.zip",
+      "sha256": "fe5697d58075834ede3d2b7095418d1235f22cbc12bcc9e39bcc27b2a0b642f7",
       "kind": "zip"
     }
   }
