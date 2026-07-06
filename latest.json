@@ -1,11 +1,11 @@
 {
-  "version": "0.1.19",
-  "notes": "Automation-agents tonen nu hun poll-status in het agents-panel: gekleurde statusbol (bewaken/actie/fout), 'laatst gepolld · detail' en geschatte volgende poll. Voorheen stond zo'n agent eeuwig op 'nog niet gedraaid' zonder enig signaal, ook bij fouten (geen repo/terminal, dispatch mislukt).",
+  "version": "0.1.20",
+  "notes": "Verzoent twee fixes voor de v0.1.17 zwart-scherm-regressie tot één schone opzet: de preload requiret alleen nog 'electron' (automation-matching draait via IPC in main), zodat de Electron-sandbox AAN kan blijven — geen zwart scherm én volle sandbox-hardening. Bevat ook de automation-agent poll-status in het agents-panel (statusbol, laatst-gepolld, volgende poll).",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.19/mAIxs-Terminator-0.1.19-arm64-mac.zip",
-      "sha256": "fe5697d58075834ede3d2b7095418d1235f22cbc12bcc9e39bcc27b2a0b642f7",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.20/mAIxs-Terminator-0.1.20-arm64-mac.zip",
+      "sha256": "d132b6b6036d818ca924c9253de9fe68733d31a8839f0c9b36e05d0689a30666",
       "kind": "zip"
     }
   }
