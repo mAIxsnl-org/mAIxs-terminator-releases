@@ -1,11 +1,11 @@
 {
-  "version": "0.1.17",
-  "notes": "mAIxs Terminator 0.1.17\n\n- Agent-popup opnieuw opgezet: kies eerst een sjabloon, vul dan alleen het relevante in.\n- Nieuwe automation-agents die GitHub bewaken en zelf een dev-flow-commando naar je terminal sturen:\n  • PR-wacht — meldt nieuwe pull requests\n  • PR-hersteller — fixt PR's met falende checks\n  • Issue-planner — draait /plan op nieuwe issues\n  • ai:build-bouwer — bouwt issues met label ai:build (/build)\n- Veilig: fix/build vragen eerst bevestiging, notify/plan gaan automatisch. Globale pauzeknop, per-agent pauze, één actie per PR-commit/issue.",
+  "version": "0.1.18",
+  "notes": "",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.17/mAIxs-Terminator-0.1.17-arm64-mac.zip",
-      "sha256": "4dc543988ee58f92246fa4b5c172140b8622c122e71c8630921c0e57148e0ed9",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.1.18/mAIxs-Terminator-0.1.18-arm64-mac.zip",
+      "sha256": "000d476e43700478051d860102621ece904e3d36976e517cbccd0818dcc0874a",
       "kind": "zip"
     }
   }
