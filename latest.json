@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "BEHEER project-control-center: Vercel-status, PRs, issues + agentic CTA",
+  "version": "0.3.0",
+  "notes": "Coderen met AI in de picker: kies bij een nieuwe terminal direct Claude Code, Codex of Nemotron (NVIDIA, gratis). Elke keuze opent een projectmap in een nieuw tab met de juiste CLI. De Nemotron code-agent kreeg ruimere reasoning-headroom (max_tokens 32K).",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.2.0/mAIxs-Terminator-0.2.0-arm64-mac.zip",
-      "sha256": "1ab46967da2c62ee1b7474c1591ff905cee2d5dbfd350130cc7e65ae51e35905",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.0/mAIxs-Terminator-0.3.0-arm64-mac.zip",
+      "sha256": "84edfec950c7b73b9b1c2234027137496bda3126e5e0f97350ec6aa4666d7569",
       "kind": "zip"
     }
   }
