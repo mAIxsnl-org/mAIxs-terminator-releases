@@ -1,16 +1,16 @@
 {
-  "version": "0.3.0",
-  "notes": "Coderen met AI in de picker: kies bij een nieuwe terminal direct Claude Code, Codex of Nemotron (NVIDIA, gratis). Elke keuze opent een projectmap in een nieuw tab met de juiste CLI. De Nemotron code-agent kreeg ruimere reasoning-headroom (max_tokens 32K). Nu ook een Windows-installer.",
+  "version": "0.3.1",
+  "notes": "Coderen met AI-picker (Claude Code / Codex / Nemotron). Nemotron code-agent: fetch-timeout + 'denkt na'-indicator + duidelijke melding bij overbelast model (free-tier 503). Mac + Windows installer.",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.0/mAIxs-Terminator-0.3.0-arm64-mac.zip",
-      "sha256": "b09315a263a38f36c41896450234f1aa06aaf5e2889eff600aaa141ef6153b6b",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.1/mAIxs-Terminator-0.3.1-arm64-mac.zip",
+      "sha256": "44ea4da0f319620c9af1b5dadf659c0aa92c99283e1319e5fc221bbeba993fd5",
       "kind": "zip"
     },
     "win32-x64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.0/mAIxs-Terminator-0.3.0-win32-x64-setup.exe",
-      "sha256": "2fea9eb012a7ad0b0f59945b9b47fb395086ca0a4547942fdcb8fed4c274fe17",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.1/mAIxs-Terminator-0.3.1-win32-x64-setup.exe",
+      "sha256": "0b69decc3f7f8f1a9ee6adaaeeb1f1a44592be88f1b79ded411fd04f7940e98d",
       "kind": "nsis"
     }
   }
