@@ -1,17 +1,12 @@
 {
-  "version": "0.3.1",
-  "notes": "Coderen met AI-picker (Claude Code / Codex / Nemotron). Nemotron code-agent: fetch-timeout + 'denkt na'-indicator + duidelijke melding bij overbelast model (free-tier 503). Mac + Windows installer.",
+  "version": "0.3.2",
+  "notes": "Nemotron code-agent: automatische retry + terugval naar een lichter model bij overbelasting (503/429), en een lichtere standaardkeuze. Geen 'model overbelast'-onderbrekingen meer.",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.1/mAIxs-Terminator-0.3.1-arm64-mac.zip",
-      "sha256": "44ea4da0f319620c9af1b5dadf659c0aa92c99283e1319e5fc221bbeba993fd5",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.2/mAIxs-Terminator-0.3.2-arm64-mac.zip",
+      "sha256": "94e77654d5a14431667068d846bfb76d11b73578a4d8396e5a205f439c9604e2",
       "kind": "zip"
-    },
-    "win32-x64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.1/mAIxs-Terminator-0.3.1-win32-x64-setup.exe",
-      "sha256": "0b69decc3f7f8f1a9ee6adaaeeb1f1a44592be88f1b79ded411fd04f7940e98d",
-      "kind": "nsis"
     }
   }
 }
