@@ -9,7 +9,7 @@
       "kind": "zip"
     },
     "win32-x64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.0/mAIxs%20Terminator%20Setup%200.3.0.exe",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.0/mAIxs-Terminator-0.3.0-win32-x64-setup.exe",
       "sha256": "2fea9eb012a7ad0b0f59945b9b47fb395086ca0a4547942fdcb8fed4c274fe17",
       "kind": "nsis"
     }
