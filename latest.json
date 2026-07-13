@@ -1,11 +1,11 @@
 {
-  "version": "0.3.5",
-  "notes": "0.3.5 — Fixes op 0.3.4: Skynet uit→aan herstart nu betrouwbaar (race + dode-tab-relaunch), en heartbeat-voorstellen komen ALTIJD via Skynet (nooit meer de losse familie-banner; ze wachten in de queue als Skynet net herstart).",
+  "version": "0.3.6",
+  "notes": "0.3.6 — Skynet-zelfdiagnose: verklaart een lege inbox met een concrete reden (gh/glab/SSO/projecten + wensen/brainstorm/nieuws) i.p.v. een kaal 'er is niks'. Nieuws (WebSearch) is nu een zelfstandige idee-bron, los van Drive.",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.5/mAIxs-Terminator-0.3.5-arm64-mac.zip",
-      "sha256": "fa683ac9b2f1d4da9977b907f4901f20e913ad224c426f8cd81d306d9d5e7d63",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.6/mAIxs-Terminator-0.3.6-arm64-mac.zip",
+      "sha256": "14c48de018177f1a49579ae4c1c67033c099353e48672f2df21d2e0c606351fd",
       "kind": "zip"
     }
   }
