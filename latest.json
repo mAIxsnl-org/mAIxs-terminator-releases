@@ -1,11 +1,11 @@
 {
-  "version": "0.3.8",
-  "notes": "0.3.8 — Producten doorgronden: Skynet doorgrondt een bestaand project (wat het is, huidige functies, ONTBREKENDE functies), slaat dat als persistent dossier op en leidt er ideeën uit af. Proactief voorstel 'doorgrond project X' voor projecten zonder/verouderd dossier. Nieuwe MCP-tools product_get/save/list.",
+  "version": "0.3.9",
+  "notes": "0.3.9 — Fix: einde aan de nudge→No-op-spam. Een voorstel dat Skynet pullt maar niet oppakt werd eeuwig opnieuw geleverd (poke→No-op→herhaal). Nu: herlever-limiet in de queue (na 3× stopt het), re-poke max 1×/5min, en Skynet sluit elk voorstel af (oppakken of afwijzen) i.p.v. zichtbaar 'No-op' te blijven roepen.",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.8/mAIxs-Terminator-0.3.8-arm64-mac.zip",
-      "sha256": "94ed0c86026ce5073b931cc4d768ee4cf3cc2f2c4521d12860fa6af6b14c8e88",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.9/mAIxs-Terminator-0.3.9-arm64-mac.zip",
+      "sha256": "e4180d6238e8b9074edcd34eed2ed3c879dfb073b17325a3a4a81bcb7f40a740",
       "kind": "zip"
     }
   }
