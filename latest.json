@@ -1,11 +1,11 @@
 {
-  "version": "0.3.6",
-  "notes": "0.3.6 — Skynet-zelfdiagnose: verklaart een lege inbox met een concrete reden (gh/glab/SSO/projecten + wensen/brainstorm/nieuws) i.p.v. een kaal 'er is niks'. Nieuws (WebSearch) is nu een zelfstandige idee-bron, los van Drive.",
+  "version": "0.3.7",
+  "notes": "0.3.7 — Catch-up briefing: zet je Skynet uit, werk handmatig door en zet 'm weer aan, dan krijg je een 'sinds jij weg was'-overzicht (nieuwe commits/PR's/terminals) in de inbox i.p.v. blanco te beginnen. Plus een verse scan bij aanzetten en een boot-orientatie in het playbook.",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.6/mAIxs-Terminator-0.3.6-arm64-mac.zip",
-      "sha256": "14c48de018177f1a49579ae4c1c67033c099353e48672f2df21d2e0c606351fd",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.7/mAIxs-Terminator-0.3.7-arm64-mac.zip",
+      "sha256": "934404f25951affc6ac0b45fc03b66d3798654536ad7a7094cf8f43d8bae74d5",
       "kind": "zip"
     }
   }
