@@ -1,11 +1,11 @@
 {
-  "version": "0.3.4",
-  "notes": "0.3.4 — De autonome Skynet: master aan/uit, per-project autonomie-ladder, proactieve ideeen (incl. klant-gespreksverslagen + nieuws als Drive gekoppeld is), deploy-stap + release-met-goedkeuring, brein standaard gekoppeld, idee-statusregister. Heartbeat zonder capaciteits-rem. Plus de 0.3.x-features (Gemini-picker, beheer-panel, Vercel, retry/backoff). Skynet-overlay: schone tegelbalk + volledige-hoogte-fit.",
+  "version": "0.3.5",
+  "notes": "0.3.5 — Fixes op 0.3.4: Skynet uit→aan herstart nu betrouwbaar (race + dode-tab-relaunch), en heartbeat-voorstellen komen ALTIJD via Skynet (nooit meer de losse familie-banner; ze wachten in de queue als Skynet net herstart).",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.4/mAIxs-Terminator-0.3.4-arm64-mac.zip",
-      "sha256": "0b49aa1e95a17a5fb08de0a959fa0c892b82a06967a9268a43eabe1a2d95f0d5",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.5/mAIxs-Terminator-0.3.5-arm64-mac.zip",
+      "sha256": "fa683ac9b2f1d4da9977b907f4901f20e913ad224c426f8cd81d306d9d5e7d63",
       "kind": "zip"
     }
   }
