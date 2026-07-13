@@ -1,11 +1,11 @@
 {
-  "version": "0.3.7",
-  "notes": "0.3.7 — Catch-up briefing: zet je Skynet uit, werk handmatig door en zet 'm weer aan, dan krijg je een 'sinds jij weg was'-overzicht (nieuwe commits/PR's/terminals) in de inbox i.p.v. blanco te beginnen. Plus een verse scan bij aanzetten en een boot-orientatie in het playbook.",
+  "version": "0.3.8",
+  "notes": "0.3.8 — Producten doorgronden: Skynet doorgrondt een bestaand project (wat het is, huidige functies, ONTBREKENDE functies), slaat dat als persistent dossier op en leidt er ideeën uit af. Proactief voorstel 'doorgrond project X' voor projecten zonder/verouderd dossier. Nieuwe MCP-tools product_get/save/list.",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.7/mAIxs-Terminator-0.3.7-arm64-mac.zip",
-      "sha256": "934404f25951affc6ac0b45fc03b66d3798654536ad7a7094cf8f43d8bae74d5",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.8/mAIxs-Terminator-0.3.8-arm64-mac.zip",
+      "sha256": "94ed0c86026ce5073b931cc4d768ee4cf3cc2f2c4521d12860fa6af6b14c8e88",
       "kind": "zip"
     }
   }
