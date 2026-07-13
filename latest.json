@@ -1,11 +1,11 @@
 {
-  "version": "0.3.3",
-  "notes": "Nieuw: Gemini CLI toegevoegd als code-optie in de nieuwe-terminal picker, naast Claude Code, Codex en Nemotron.",
+  "version": "0.3.4",
+  "notes": "0.3.4 — De autonome Skynet: master aan/uit, per-project autonomie-ladder, proactieve ideeen (incl. klant-gespreksverslagen + nieuws als Drive gekoppeld is), deploy-stap + release-met-goedkeuring, brein standaard gekoppeld, idee-statusregister. Heartbeat zonder capaciteits-rem. Plus de 0.3.x-features (Gemini-picker, beheer-panel, Vercel, retry/backoff). Skynet-overlay: schone tegelbalk + volledige-hoogte-fit.",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.3/mAIxs-Terminator-0.3.3-arm64-mac.zip",
-      "sha256": "a563b4db63d0c7a7e751a3a1d719abf8ad2a1c5adb31946b87f1a8c09c890949",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.4/mAIxs-Terminator-0.3.4-arm64-mac.zip",
+      "sha256": "0b49aa1e95a17a5fb08de0a959fa0c892b82a06967a9268a43eabe1a2d95f0d5",
       "kind": "zip"
     }
   }
