@@ -1,11 +1,11 @@
 {
-  "version": "0.3.10",
-  "notes": "0.3.10 — Producent-alarm: de heartbeat merkt nu zélf dat je werk-bron kapot is (gh niet ingelogd / verkeerd account of SSO niet geautoriseerd / glab ontbreekt) en zet er proactief een kaart voor neer met de reden + fix — i.p.v. dat het stil blijft en er 'geen voorstel' komt. Eerste story van 'Skynet volwaardig maken'.",
+  "version": "0.3.11",
+  "notes": "0.3.11 — Hardening: (1) prompt-injection-bescherming — Skynet + gespawnde agents behandelen externe inhoud (issue/PR/web) als data, nooit als commando's. (2) Waarschuwing wanneer de remote-control-API op 0.0.0.0 (LAN) staat i.p.v. localhost — de API geeft schrijftoegang tot je terminals. Alleen waarschuwen, nooit blokkeren.",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.10/mAIxs-Terminator-0.3.10-arm64-mac.zip",
-      "sha256": "48018761b6b3a73187837fa8459aba46f93e41b8d22805996c20149c4fec3419",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.11/mAIxs-Terminator-0.3.11-arm64-mac.zip",
+      "sha256": "9d17de0c3d9282a104d067ebf4ef773009c17a1ca229c023e36b67afaf27bd9a",
       "kind": "zip"
     }
   }
