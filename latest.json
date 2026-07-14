@@ -1,11 +1,11 @@
 {
-  "version": "0.3.9",
-  "notes": "0.3.9 — Fix: einde aan de nudge→No-op-spam. Een voorstel dat Skynet pullt maar niet oppakt werd eeuwig opnieuw geleverd (poke→No-op→herhaal). Nu: herlever-limiet in de queue (na 3× stopt het), re-poke max 1×/5min, en Skynet sluit elk voorstel af (oppakken of afwijzen) i.p.v. zichtbaar 'No-op' te blijven roepen.",
+  "version": "0.3.10",
+  "notes": "0.3.10 — Producent-alarm: de heartbeat merkt nu zélf dat je werk-bron kapot is (gh niet ingelogd / verkeerd account of SSO niet geautoriseerd / glab ontbreekt) en zet er proactief een kaart voor neer met de reden + fix — i.p.v. dat het stil blijft en er 'geen voorstel' komt. Eerste story van 'Skynet volwaardig maken'.",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.9/mAIxs-Terminator-0.3.9-arm64-mac.zip",
-      "sha256": "e4180d6238e8b9074edcd34eed2ed3c879dfb073b17325a3a4a81bcb7f40a740",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.10/mAIxs-Terminator-0.3.10-arm64-mac.zip",
+      "sha256": "48018761b6b3a73187837fa8459aba46f93e41b8d22805996c20149c4fec3419",
       "kind": "zip"
     }
   }
