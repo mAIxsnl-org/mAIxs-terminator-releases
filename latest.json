@@ -1,11 +1,11 @@
 {
-  "version": "0.3.14",
-  "notes": "Opstart-check: Skynet controleert bij het starten of alle verbindingen leven (GitHub, MCP, heartbeat, ideeën-store) en lost problemen eerst op — auto-fix waar veilig, anders een 1-tik fix-kaart, tenzij jij dat niet wilt.",
+  "version": "0.3.15",
+  "notes": "Rustiger ritme, ideeën-ronde 1x/uur die niet wordt overgeslagen, en Skynet praat in klare taal (geen technisch jargon).",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.14/mAIxs-Terminator-0.3.14-arm64-mac.zip",
-      "sha256": "8cbb2eb86512fb8f51749544febe9d5e580b99c6513c2ba7f4d97404a9c376d8",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.15/mAIxs-Terminator-0.3.15-arm64-mac.zip",
+      "sha256": "4d52612324bbdd233ef86f4c1d4fed51d4a27a05a102fb6bf21721122434667d",
       "kind": "zip"
     }
   }
