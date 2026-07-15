@@ -1,11 +1,11 @@
 {
-  "version": "0.3.13",
-  "notes": "comprehend-assertiever: Skynet doorgrondt projecten nu écht (voorstellen verdampen niet meer na één keer; product-dossiers worden opgebouwd). Doorgronden is default idle-werk geworden.",
+  "version": "0.3.14",
+  "notes": "Opstart-check: Skynet controleert bij het starten of alle verbindingen leven (GitHub, MCP, heartbeat, ideeën-store) en lost problemen eerst op — auto-fix waar veilig, anders een 1-tik fix-kaart, tenzij jij dat niet wilt.",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.13/mAIxs-Terminator-0.3.13-arm64-mac.zip",
-      "sha256": "17c2899b5c05c6c950e6a0e17b1299213005ab67f6a19a866fed29fb942937c8",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.14/mAIxs-Terminator-0.3.14-arm64-mac.zip",
+      "sha256": "8cbb2eb86512fb8f51749544febe9d5e580b99c6513c2ba7f4d97404a9c376d8",
       "kind": "zip"
     }
   }
