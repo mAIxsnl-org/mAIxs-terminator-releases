@@ -1,11 +1,11 @@
 {
-  "version": "0.3.12",
-  "notes": "0.3.12 — Autocompact: loopt de context van de Skynet-orchestrator vol (~80%), dan comprimeert 'ie zichzelf automatisch (/compact) in dezelfde sessie — zodat Skynet niet mid-orkestratie leegloopt. Nooit een nieuwe sessie (dus geen wildgroei aan remote controls).",
+  "version": "0.3.13",
+  "notes": "comprehend-assertiever: Skynet doorgrondt projecten nu écht (voorstellen verdampen niet meer na één keer; product-dossiers worden opgebouwd). Doorgronden is default idle-werk geworden.",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.12/mAIxs-Terminator-0.3.12-arm64-mac.zip",
-      "sha256": "3fc90f3302299f3496cc897ee70c5809d29f7d9d760264cd51abbc3e4f9e82a9",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.13/mAIxs-Terminator-0.3.13-arm64-mac.zip",
+      "sha256": "17c2899b5c05c6c950e6a0e17b1299213005ab67f6a19a866fed29fb942937c8",
       "kind": "zip"
     }
   }
