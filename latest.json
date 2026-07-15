@@ -1,11 +1,11 @@
 {
-  "version": "0.3.15",
-  "notes": "Rustiger ritme, ideeën-ronde 1x/uur die niet wordt overgeslagen, en Skynet praat in klare taal (geen technisch jargon).",
+  "version": "0.3.16",
+  "notes": "Skynet beslist niks meer zelf: elke vraag of keuze gaat naar jou, geen 'akkoord' namens jou.",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.15/mAIxs-Terminator-0.3.15-arm64-mac.zip",
-      "sha256": "4d52612324bbdd233ef86f4c1d4fed51d4a27a05a102fb6bf21721122434667d",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.16/mAIxs-Terminator-0.3.16-arm64-mac.zip",
+      "sha256": "9f92c9330facc013edbed2f33a31edd8be0391e512b657cfab228995dbccb48f",
       "kind": "zip"
     }
   }
