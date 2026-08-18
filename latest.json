@@ -1,11 +1,11 @@
 {
-  "version": "0.3.16",
-  "notes": "Skynet beslist niks meer zelf: elke vraag of keuze gaat naar jou, geen 'akkoord' namens jou.",
+  "version": "0.3.17",
+  "notes": "Nieuw: jcode als vijfde code-CLI in de nieuwe-terminal picker. Slack-koppeling (fase 1, meelezen via Socket Mode). Snooze werkt nu per project in plaats van overal tegelijk.",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.16/mAIxs-Terminator-0.3.16-arm64-mac.zip",
-      "sha256": "9f92c9330facc013edbed2f33a31edd8be0391e512b657cfab228995dbccb48f",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.17/mAIxs-Terminator-0.3.17-arm64-mac.zip",
+      "sha256": "3e9c0ff92ea180929e7789fa14ee682de48ae857dd1888efb4837531e31cd0e3",
       "kind": "zip"
     }
   }
