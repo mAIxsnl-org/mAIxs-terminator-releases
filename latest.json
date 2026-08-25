@@ -1,11 +1,11 @@
 {
-  "version": "0.3.17",
-  "notes": "Nieuw: jcode als vijfde code-CLI in de nieuwe-terminal picker. Slack-koppeling (fase 1, meelezen via Socket Mode). Snooze werkt nu per project in plaats van overal tegelijk.",
+  "version": "0.3.18",
+  "notes": "Poll-interval van automation-agents nu in seconden (minimaal 30 s, standaard 600 s) in plaats van minuten. Bestaande agents migreren automatisch; PR-wacht preset pollt elke 90 s.",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.17/mAIxs-Terminator-0.3.17-arm64-mac.zip",
-      "sha256": "3e9c0ff92ea180929e7789fa14ee682de48ae857dd1888efb4837531e31cd0e3",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.18/mAIxs-Terminator-0.3.18-arm64-mac.zip",
+      "sha256": "14bb5e119bf58084362f8737c9e8094fc3c038b87fa4da06160cfbdfc8b05206",
       "kind": "zip"
     }
   }
