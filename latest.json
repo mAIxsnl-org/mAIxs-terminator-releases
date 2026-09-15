@@ -1,11 +1,11 @@
 {
-  "version": "0.3.18",
-  "notes": "Poll-interval van automation-agents nu in seconden (minimaal 30 s, standaard 600 s) in plaats van minuten. Bestaande agents migreren automatisch; PR-wacht preset pollt elke 90 s.",
+  "version": "0.3.19",
+  "notes": "Verbruik: Grok Build-balk (wekelijkse credits-periode, via het billing-endpoint van de Grok-CLI) naast Claude en Codex in het VERBRUIK-paneel.",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.18/mAIxs-Terminator-0.3.18-arm64-mac.zip",
-      "sha256": "14bb5e119bf58084362f8737c9e8094fc3c038b87fa4da06160cfbdfc8b05206",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.19/mAIxs-Terminator-0.3.19-arm64-mac.zip",
+      "sha256": "9b171849dcdb92b7ff382192e7fbf984e8b31c49658469a6e2849e1200905dff",
       "kind": "zip"
     }
   }
