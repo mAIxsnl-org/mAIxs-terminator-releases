@@ -1,12 +1,17 @@
 {
-  "version": "0.3.19",
-  "notes": "Verbruik: Grok Build-balk (wekelijkse credits-periode, via het billing-endpoint van de Grok-CLI) naast Claude en Codex in het VERBRUIK-paneel.",
+  "version": "0.3.21",
+  "notes": "Nieuwe Terminator-gates, veilige contextoverdracht tussen tabs, MCP v2 en Jev-routing. Inclusief macOS- en Windows-update.",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.19/mAIxs-Terminator-0.3.19-arm64-mac.zip",
-      "sha256": "9b171849dcdb92b7ff382192e7fbf984e8b31c49658469a6e2849e1200905dff",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.21/mAIxs-Terminator-0.3.21-arm64-mac.zip",
+      "sha256": "1b850c4759c0ef3c5c0e9cc136a70640539d97e6cb9d9b259b4abb17e276e466",
       "kind": "zip"
+    },
+    "win32-x64": {
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.21/mAIxs-Terminator-0.3.21-win32-x64-setup.exe",
+      "sha256": "78a9f532a7341883b5ad2fa85a21244393541ab516d010e1b2c9ade8ad74b41c",
+      "kind": "nsis"
     }
   }
 }
