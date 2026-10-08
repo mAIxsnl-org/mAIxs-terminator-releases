@@ -1,16 +1,16 @@
 {
-  "version": "0.3.21",
-  "notes": "Nieuwe Terminator-gates, veilige contextoverdracht tussen tabs, MCP v2 en Jev-routing. Inclusief macOS- en Windows-update.",
+  "version": "0.3.22",
+  "notes": "Limiet-overdracht naar Sonnet en Codex (standaard UIT) en een sessiekaart per tab (standaard AAN), plus MRS-routering voor nieuwe Claude-tabs. Inclusief macOS- en Windows-update.",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.21/mAIxs-Terminator-0.3.21-arm64-mac.zip",
-      "sha256": "1b850c4759c0ef3c5c0e9cc136a70640539d97e6cb9d9b259b4abb17e276e466",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.22/mAIxs-Terminator-0.3.22-arm64-mac.zip",
+      "sha256": "79eb04bd476190e7e8994c41f5f3c9b576e7cf50293f550e4e1512c73419476c",
       "kind": "zip"
     },
     "win32-x64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.21/mAIxs-Terminator-0.3.21-win32-x64-setup.exe",
-      "sha256": "78a9f532a7341883b5ad2fa85a21244393541ab516d010e1b2c9ade8ad74b41c",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.22/mAIxs-Terminator-0.3.22-win32-x64-setup.exe",
+      "sha256": "cba87e3bce244ca49974f54fda7b452265294ea72c5513e205e495a886a462fb",
       "kind": "nsis"
     }
   }
