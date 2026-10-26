@@ -1,16 +1,16 @@
 {
-  "version": "0.3.22",
-  "notes": "Limiet-overdracht naar Sonnet en Codex (standaard UIT) en een sessiekaart per tab (standaard AAN), plus MRS-routering voor nieuwe Claude-tabs. Inclusief macOS- en Windows-update.",
+  "version": "0.3.24",
+  "notes": "Tabbladen sluiten werkt ook met veel geopende tabs: de sluitknoppen blijven bereikbaar en de tabbalk scrolt. Gebruik het kruisje, het rechtsklikmenu of het menu Tabbladen om een tabblad of de andere tabbladen te sluiten.\n\nVerder in deze release:\n- Stabiele macOS-ondertekening, zodat apprechten bij updates behouden blijven.\n- Beperking van gelijktijdige Claude-sessies en herstel als hervatbare shells, zodat eerdere sessies niet allemaal automatisch starten.\n- Verbeteringen aan sessiehervatting, afsluitlogging en Git-beveiliging in worktrees.\n\nBeschikbaar voor macOS Apple Silicon en Windows x64.\n",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.22/mAIxs-Terminator-0.3.22-arm64-mac.zip",
-      "sha256": "79eb04bd476190e7e8994c41f5f3c9b576e7cf50293f550e4e1512c73419476c",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.24/mAIxs-Terminator-0.3.24-arm64-mac.zip",
+      "sha256": "b88fa00819820cb523e21725f6b06c52fc2abb805840bf89c9e1ddf3b6e7a526",
       "kind": "zip"
     },
     "win32-x64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.22/mAIxs-Terminator-0.3.22-win32-x64-setup.exe",
-      "sha256": "cba87e3bce244ca49974f54fda7b452265294ea72c5513e205e495a886a462fb",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.24/mAIxs-Terminator-0.3.24-win32-x64-setup.exe",
+      "sha256": "01a2ec025ba774c784578e510a67d3e8574544c0a5d8f3fc85d3ead7b2f51b72",
       "kind": "nsis"
     }
   }
