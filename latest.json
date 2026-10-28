@@ -1,17 +1,12 @@
 {
-  "version": "0.3.24",
-  "notes": "Tabbladen sluiten werkt ook met veel geopende tabs: de sluitknoppen blijven bereikbaar en de tabbalk scrolt. Gebruik het kruisje, het rechtsklikmenu of het menu Tabbladen om een tabblad of de andere tabbladen te sluiten.\n\nVerder in deze release:\n- Stabiele macOS-ondertekening, zodat apprechten bij updates behouden blijven.\n- Beperking van gelijktijdige Claude-sessies en herstel als hervatbare shells, zodat eerdere sessies niet allemaal automatisch starten.\n- Verbeteringen aan sessiehervatting, afsluitlogging en Git-beveiliging in worktrees.\n\nBeschikbaar voor macOS Apple Silicon en Windows x64.\n",
+  "version": "0.3.25",
+  "notes": "Beveiligingsupdate: mAIxs Terminator draait nu op Electron 43.8.4 met Node.js 24.22.1. Daarin zit de Brotli-fix voor CVE-2026-111497.\n\nBeschikbaar voor macOS Apple Silicon. De Windows-versie volgt.",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.24/mAIxs-Terminator-0.3.24-arm64-mac.zip",
-      "sha256": "b88fa00819820cb523e21725f6b06c52fc2abb805840bf89c9e1ddf3b6e7a526",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.25/mAIxs-Terminator-0.3.25-arm64-mac.zip",
+      "sha256": "1658d2fb368c90f0bee35b17aaa0ead961e07b3dd082d30cb40f0a373bf7e27e",
       "kind": "zip"
-    },
-    "win32-x64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.24/mAIxs-Terminator-0.3.24-win32-x64-setup.exe",
-      "sha256": "01a2ec025ba774c784578e510a67d3e8574544c0a5d8f3fc85d3ead7b2f51b72",
-      "kind": "nsis"
     }
   }
 }
