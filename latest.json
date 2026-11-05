@@ -1,11 +1,11 @@
 {
-  "version": "0.3.25",
-  "notes": "Beveiligingsupdate: mAIxs Terminator draait nu op Electron 43.8.4 met Node.js 24.22.1. Daarin zit de Brotli-fix voor CVE-2026-111497.\n\nBeschikbaar voor macOS Apple Silicon. De Windows-versie volgt.",
+  "version": "0.3.26",
+  "notes": "Onderhoudsrelease: versie 0.3.26 met een kleine aanpassing in de build-pipeline. De app zelf verandert niet.\n\nBeschikbaar voor macOS Apple Silicon. De Windows-versie volgt.",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.25/mAIxs-Terminator-0.3.25-arm64-mac.zip",
-      "sha256": "1658d2fb368c90f0bee35b17aaa0ead961e07b3dd082d30cb40f0a373bf7e27e",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.26/mAIxs-Terminator-0.3.26-arm64-mac.zip",
+      "sha256": "6696f4edb237b806f6e778f256df5879ac7dc071195f467a385751ac20c27bd6",
       "kind": "zip"
     }
   }
