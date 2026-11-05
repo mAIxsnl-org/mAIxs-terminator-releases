@@ -1,11 +1,11 @@
 {
-  "version": "0.3.26",
-  "notes": "Onderhoudsrelease: versie 0.3.26 met een kleine aanpassing in de build-pipeline. De app zelf verandert niet.\n\nBeschikbaar voor macOS Apple Silicon. De Windows-versie volgt.",
+  "version": "0.3.27",
+  "notes": "mAIxs Terminator 0.3.27: waak protect/tileCount (#113), versiebump (#114)",
   "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/latest",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.26/mAIxs-Terminator-0.3.26-arm64-mac.zip",
-      "sha256": "6696f4edb237b806f6e778f256df5879ac7dc071195f467a385751ac20c27bd6",
+      "url": "https://github.com/mAIxsnl-org/mAIxs-terminator-releases/releases/download/v0.3.27/mAIxs-Terminator-0.3.27-arm64-mac.zip",
+      "sha256": "28df6d01cd80f13e590a36d92b14c32239b666d67bea709eb0b903d792386eb7",
       "kind": "zip"
     }
   }
